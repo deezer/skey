@@ -125,3 +125,4 @@ If you use this work in your research, please cite:
 ## 📄 License
 
 The code of **SKEY** is [MIT-licensed](LICENSE).
+The MIT license **does not** apply to the model weights in skey.pt. You may use the model weights only for non-commercial research purposes.
